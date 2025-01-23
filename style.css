@@ -652,7 +652,7 @@ a {
 /* -------------------------------------------------- */
 
 .customer-reviews{
-  padding-bottom: 10%;
+  padding-bottom: 55%;
   position: relative;
 }
 .customer-reviews h2{
@@ -697,20 +697,21 @@ a {
   color: white;
   border-radius: 20px;
   width: 100%;
-  height: 30%;
+  height: 48%;
   display: grid;
   grid-template-rows: 1fr 1fr 1fr;
   grid-template-columns: 1fr;
+  gap: 3%;
   align-items: center; 
   position: absolute;
-  top: 80%;
+  top: 75%;
   box-sizing: border-box;
-  padding: 1% 5%;
+  padding: 7% 5%;
 }
 .news-heading{
   grid-row: span 2;
   font-family: integralCF;
-  font-size: 30px;
+  font-size: 27px;
   font-weight: 700;
 }
 .subscribe{
@@ -730,7 +731,7 @@ a {
   width: 100%;
   /* padding: 0 20px; */
   background-color: #F0F0F0;
-  height: 48px;
+  height: 42px;
   border-radius: 62px;
 }
 .mail input{
@@ -739,7 +740,7 @@ a {
   background-color: #F0F0F0;
   border: none;
   font-family: satoshi;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 400;
 }
 .button{
@@ -755,7 +756,7 @@ a {
 
 .gray-bg{
   background-color: #F0F0F0;
-  padding-top: 8%;
+  padding-top: 40%;
 }
 .footer{
   /* display: flex;
